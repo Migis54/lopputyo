@@ -1,6 +1,1 @@
-teksti
-<<<<<<< HEAD
-AHHHHHHHHHHHHAhahHAAAAAAAAAAAA
-=======
-EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
->>>>>>> Testihaara2
+more test text part 2
