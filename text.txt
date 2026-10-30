@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 more test text part 2
+=======
+teksti
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+testshit
+>>>>>>> Testihaara2
